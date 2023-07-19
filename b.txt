@@ -1,2 +1,2 @@
 file b :
-section
+<section></section>
