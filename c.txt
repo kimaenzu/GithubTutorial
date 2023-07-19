@@ -1,2 +1,2 @@
 file c : 
-section
+footer
