@@ -1,2 +1,2 @@
 file a :
-header
+<header></header>
