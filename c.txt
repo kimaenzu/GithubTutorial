@@ -1,2 +1,2 @@
 file c : 
-footer
+<footer></footer>
